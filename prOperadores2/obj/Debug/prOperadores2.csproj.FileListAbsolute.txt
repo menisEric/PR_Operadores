@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\prOperadores2\bin\Debug\prOperadores2.exe.config
+C:\Users\User\source\repos\prOperadores2\bin\Debug\prOperadores2.exe
+C:\Users\User\source\repos\prOperadores2\bin\Debug\prOperadores2.pdb
+C:\Users\User\source\repos\prOperadores2\obj\Debug\prOperadores2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prOperadores2\obj\Debug\prOperadores2.Form1.resources
+C:\Users\User\source\repos\prOperadores2\obj\Debug\prOperadores2.Properties.Resources.resources
+C:\Users\User\source\repos\prOperadores2\obj\Debug\prOperadores2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prOperadores2\obj\Debug\prOperadores2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prOperadores2\obj\Debug\prOperadores2.exe
+C:\Users\User\source\repos\prOperadores2\obj\Debug\prOperadores2.pdb

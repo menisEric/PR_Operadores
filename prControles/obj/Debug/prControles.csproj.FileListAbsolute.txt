@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\prControles\bin\Debug\prControles.exe.config
+C:\Users\User\source\repos\prControles\bin\Debug\prControles.exe
+C:\Users\User\source\repos\prControles\bin\Debug\prControles.pdb
+C:\Users\User\source\repos\prControles\obj\Debug\prControles.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prControles\obj\Debug\prControles.Form1.resources
+C:\Users\User\source\repos\prControles\obj\Debug\prControles.Properties.Resources.resources
+C:\Users\User\source\repos\prControles\obj\Debug\prControles.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prControles\obj\Debug\prControles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prControles\obj\Debug\prControles.exe
+C:\Users\User\source\repos\prControles\obj\Debug\prControles.pdb
